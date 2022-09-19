@@ -2,7 +2,7 @@
   
   💻 Estudante de Engenharia da Computação
   
-  💡 Entusiasta de UX/UI Design
+  💡 Entusiasta da área de UX/UI Design
   
   📱 Atualmente estagiária na área de testes
   
