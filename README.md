@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/jamile-loureiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamile-loureiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamile-loureiro&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jamile-loureiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamile-loureiro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -21,9 +21,3 @@
   <img align="center" alt="Jam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
- 
-<div> 
- 
-  ![Snake animation](https://github.com/jamile-loureiro/jamile-loureiro/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
