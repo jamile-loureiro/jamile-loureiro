@@ -1,5 +1,7 @@
 # 👩🏻‍💻 Olá! Eu sou a Jamile Loureiro 👩🏻‍💻
   
+  Meu portfólio: https://jamile-loureiro.github.io/portfolio/
+  
   💻 Estudante de Engenharia da Computação
   
   💡 Entusiasta da área de UX/UI Design
